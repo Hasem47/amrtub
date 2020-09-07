@@ -1,0 +1,264 @@
+Uri: https://amrtube.com/login.php
+File Name: c:\Downloaded Web Sites\amrtube.com\login.html
+Content Type: text/html
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png
+File Name: c:\Downloaded Web Sites\amrtube.com\rsrc.php\v3\yq\r\IE9JII6Z1Ys.png
+Content Type: image/png
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png
+File Name: c:\Downloaded Web Sites\amrtube.com\rsrc.php\v3\ye\r\8YeTNIlTZjm.png
+Content Type: image/png
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif
+File Name: c:\Downloaded Web Sites\amrtube.com\rsrc.php\v3\yd\r\Cou7n-nqK52.gif
+Content Type: image/gif
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif
+File Name: c:\Downloaded Web Sites\amrtube.com\rsrc.php\v3\ya\r\3rhSv5V8j3o.gif
+Content Type: image/gif
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif
+File Name: c:\Downloaded Web Sites\amrtube.com\rsrc.php\v3\y9\r\jKEcVPZFk-2.gif
+Content Type: image/gif
+
+Uri: https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png
+File Name: c:\Downloaded Web Sites\amrtube.com\rsrc.php\v3\yD\r\t-wz8gw1xG1.png
+Content Type: image/png
+
+Uri: https://amrtube.com/favicon.ico
+File Name: c:\Downloaded Web Sites\amrtube.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://amrtube.com/content/style_res_2_3_1.css
+File Name: c:\Downloaded Web Sites\amrtube.com\content\style_res_2_3_1.css
+Content Type: text/css
+
+Uri: https://amrtube.com/reg.php
+File Name: c:\Downloaded Web Sites\amrtube.com\reg.html
+Content Type: text/html
+
+Uri: https://amrtube.com/contact.php
+File Name: c:\Downloaded Web Sites\amrtube.com\contact.html
+Content Type: text/html
+
+Uri: https://amrtube.com/reset.php
+File Name: c:\Downloaded Web Sites\amrtube.com\reset.html
+Content Type: text/html
+
+Uri: https://amrtube.com/login.php?type=profiles
+File Name: c:\Downloaded Web Sites\amrtube.com\login-1.html
+Content Type: text/html
+
+Uri: https://amrtube.com/terms.php
+File Name: c:\Downloaded Web Sites\amrtube.com\terms.html
+Content Type: text/html
+
+Uri: https://amrtube.com/refund_policy.php
+File Name: c:\Downloaded Web Sites\amrtube.com\refund_policy.html
+Content Type: text/html
+
+Uri: https://amrtube.com/privacy.php
+File Name: c:\Downloaded Web Sites\amrtube.com\privacy.html
+Content Type: text/html
+
+Uri: https://amrtube.com/content/cb=gapi.loaded_1
+File Name: c:\Downloaded Web Sites\amrtube.com\content\cb=gapi.loaded_1
+Content Type: 
+
+Uri: https://amrtube.com/content/cb=gapi.loaded_0
+File Name: c:\Downloaded Web Sites\amrtube.com\content\cb=gapi.loaded_0
+Content Type: 
+
+Uri: https://amrtube.com/content/platform.js.download
+File Name: c:\Downloaded Web Sites\amrtube.com\content\platform.js.js
+Content Type: application/javascript
+
+Uri: https://amrtube.com/content/all.js.download
+File Name: c:\Downloaded Web Sites\amrtube.com\content\all.js.js
+Content Type: application/javascript
+
+Uri: https://amrtube.com/content/widgets.js.download
+File Name: c:\Downloaded Web Sites\amrtube.com\content\widgets.js.js
+Content Type: application/javascript
+
+Uri: https://amrtube.com/content/ga.js.download
+File Name: c:\Downloaded Web Sites\amrtube.com\content\ga.js.js
+Content Type: application/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js
+File Name: c:\Downloaded Web Sites\amrtube.com\ajax\libs\jquery\1.7.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://amrtube.com/content/validation.js.download
+File Name: c:\Downloaded Web Sites\amrtube.com\content\validation.js.js
+Content Type: application/javascript
+
+Uri: https://amrtube.com/content/jquery.min.js.download
+File Name: c:\Downloaded Web Sites\amrtube.com\content\jquery.min.js.js
+Content Type: application/javascript
+
+Uri: https://amrtube.com/content/visits_v15_com.js.download
+File Name: c:\Downloaded Web Sites\amrtube.com\content\visits_v15_com.js.js
+Content Type: application/javascript
+
+Uri: https://amrtube.com/content/button.636814f8e7aa5d4bb2965822d1570e02.js.download
+File Name: c:\Downloaded Web Sites\amrtube.com\content\button.636814f8e7aa5d4bb2965822d1570e02.js.js
+Content Type: application/javascript
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+File Name: c:\Downloaded Web Sites\amrtube.com\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://amrtube.com/content/logo_new.png
+File Name: c:\Downloaded Web Sites\amrtube.com\content\logo_new.png
+Content Type: image/png
+
+Uri: https://amrtube.com/content/web_0.png
+File Name: c:\Downloaded Web Sites\amrtube.com\content\web_0.png
+Content Type: image/png
+
+Uri: https://amrtube.com/content/fb_0.png
+File Name: c:\Downloaded Web Sites\amrtube.com\content\fb_0.png
+Content Type: image/png
+
+Uri: https://amrtube.com/content/yt_1.png
+File Name: c:\Downloaded Web Sites\amrtube.com\content\yt_1.png
+Content Type: image/png
+
+Uri: https://amrtube.com/content/share.png
+File Name: c:\Downloaded Web Sites\amrtube.com\content\share.png
+Content Type: image/png
+
+Uri: https://amrtube.com/content/tw_0.png
+File Name: c:\Downloaded Web Sites\amrtube.com\content\tw_0.png
+Content Type: image/png
+
+Uri: https://amrtube.com/content/android_0.png
+File Name: c:\Downloaded Web Sites\amrtube.com\content\android_0.png
+Content Type: image/png
+
+Uri: https://ad.a-ads.com/1459116?size=728x90
+File Name: c:\Downloaded Web Sites\amrtube.com\1459116.html
+Content Type: text/html
+
+Uri: https://amrtube.com/fb_share_app/payment/ms/tr.png
+File Name: c:\Downloaded Web Sites\amrtube.com\fb_share_app\payment\ms\tr.png
+Content Type: image/png
+
+Uri: https://amrtube.com/content/tick_no.gif
+File Name: c:\Downloaded Web Sites\amrtube.com\content\tick_no.gif
+Content Type: image/gif
+
+Uri: https://amrtube.com/content/iframe_close.png
+File Name: c:\Downloaded Web Sites\amrtube.com\content\iframe_close.png
+Content Type: image/png
+
+Uri: https://amrtube.com/content/saved_resource.html
+File Name: c:\Downloaded Web Sites\amrtube.com\content\saved_resource.html
+Content Type: text/html
+
+Uri: https://amrtube.com/content/icon_fb_64.png
+File Name: c:\Downloaded Web Sites\amrtube.com\content\icon_fb_64.png
+Content Type: image/png
+
+Uri: https://amrtube.com/content/icon_tw_64.png
+File Name: c:\Downloaded Web Sites\amrtube.com\content\icon_tw_64.png
+Content Type: image/png
+
+Uri: https://amrtube.com/content/icon_gp_64.png
+File Name: c:\Downloaded Web Sites\amrtube.com\content\icon_gp_64.png
+Content Type: image/png
+
+Uri: https://amrtube.com/content/bg_btn_buy.gif
+File Name: c:\Downloaded Web Sites\amrtube.com\content\bg_btn_buy.gif
+Content Type: image/gif
+
+Uri: https://amrtube.com/content/bg_nav2.png
+File Name: c:\Downloaded Web Sites\amrtube.com\content\bg_nav2.png
+Content Type: image/png
+
+Uri: https://amrtube.com/content/tick_yes.gif
+File Name: c:\Downloaded Web Sites\amrtube.com\content\tick_yes.gif
+Content Type: image/gif
+
+Uri: https://amrtube.com/content/bg_hp_title.gif
+File Name: c:\Downloaded Web Sites\amrtube.com\content\bg_hp_title.gif
+Content Type: image/gif
+
+Uri: https://amrtube.com/content/ann.png
+File Name: c:\Downloaded Web Sites\amrtube.com\content\ann.png
+Content Type: image/png
+
+Uri: https://amrtube.com/content/bg_category.gif
+File Name: c:\Downloaded Web Sites\amrtube.com\content\bg_category.gif
+Content Type: image/gif
+
+Uri: https://amrtube.com/content/bg_box3.gif
+File Name: c:\Downloaded Web Sites\amrtube.com\content\bg_box3.gif
+Content Type: image/gif
+
+Uri: https://amrtube.com/content/bg_btn.gif
+File Name: c:\Downloaded Web Sites\amrtube.com\content\bg_btn.gif
+Content Type: image/gif
+
+Uri: https://amrtube.com/content/home.gif
+File Name: c:\Downloaded Web Sites\amrtube.com\content\home.gif
+Content Type: image/gif
+
+Uri: https://amrtube.com/content/calendar.png
+File Name: c:\Downloaded Web Sites\amrtube.com\content\calendar.png
+Content Type: image/png
+
+Uri: https://amrtube.com/content/view_small.png
+File Name: c:\Downloaded Web Sites\amrtube.com\content\view_small.png
+Content Type: image/png
+
+Uri: https://amrtube.com/content/bg_best.gif
+File Name: c:\Downloaded Web Sites\amrtube.com\content\bg_best.gif
+Content Type: image/gif
+
+Uri: https://amrtube.com/content/bg_visited.gif
+File Name: c:\Downloaded Web Sites\amrtube.com\content\bg_visited.gif
+Content Type: image/gif
+
+Uri: https://amrtube.com/content/bg_tab_box.gif
+File Name: c:\Downloaded Web Sites\amrtube.com\content\bg_tab_box.gif
+Content Type: image/gif
+
+Uri: https://amrtube.com/content/bgmem.gif
+File Name: c:\Downloaded Web Sites\amrtube.com\content\bgmem.gif
+Content Type: image/gif
+
+Uri: https://amrtube.com/reg.php?type=profiles
+File Name: c:\Downloaded Web Sites\amrtube.com\reg-1.html
+Content Type: text/html
+
+Uri: https://amrtube.com/contact.php?type=profiles
+File Name: c:\Downloaded Web Sites\amrtube.com\contact-1.html
+Content Type: text/html
+
+Uri: https://amrtube.com/reset.php?type=profiles
+File Name: c:\Downloaded Web Sites\amrtube.com\reset-1.html
+Content Type: text/html
+
+Uri: https://twitter.com/Foorticlub.bd
+File Name: c:\Downloaded Web Sites\amrtube.com\Foorticlub.html
+Content Type: text/html
+
+Uri: https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/Foorticlub.bd&followup=https://plus.google.com/Foorticlub.bd
+File Name: c:\Downloaded Web Sites\amrtube.com\ServiceLogin.html
+Content Type: text/html
+
+Uri: https://amrtube.com/terms.php?type=profiles
+File Name: c:\Downloaded Web Sites\amrtube.com\terms-1.html
+Content Type: text/html
+
+Uri: https://amrtube.com/refund_policy.php?type=profiles
+File Name: c:\Downloaded Web Sites\amrtube.com\refund_policy-1.html
+Content Type: text/html
+
+Uri: https://amrtube.com/privacy.php?type=profiles
+File Name: c:\Downloaded Web Sites\amrtube.com\privacy-1.html
+Content Type: text/html
+
